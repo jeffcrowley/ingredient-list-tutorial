@@ -42,7 +42,7 @@ end
 
 group :production do
   #postgres when deployed to heroku -jc
-  gem 'pg'
+  gem 'pg' 
 end
 
 #activeadmin stuff -jc
